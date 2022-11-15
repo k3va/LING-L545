@@ -1,0 +1,79 @@
+"<All>"
+	"all" DET 
+	"All" DET 
+"<in>"
+	"in" ADP 
+	"in" ADV 
+	"in" SCONJ 
+	"in" PROPN Number=Sing
+	"in" NOUN Number=Sing
+	"in" ADJ Degree=Pos
+	"be" AUX Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin
+	"into" ADP Typo=Yes
+	"_" X 
+	"indeed" ADV Typo=Yes
+"<all>"
+	"all" DET 
+	"all" ADV 
+	"all" NOUN Number=Sing
+	"altogether" ADV Typo=Yes
+"<I>"
+	"I" PRON Case=Nom Number=Sing Person=1 PronType=Prs
+	"I" NUM NumForm=Roman NumType=Card
+	"I" PROPN Number=Sing
+"<don't>"
+	"*don't"
+"<want>"
+	"want" VERB VerbForm=Inf
+	"want" VERB Mood=Ind Number=Sing Person=1 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Plur Person=3 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Sing Person=2 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin
+	"want" VERB Mood=Ind Number=Plur Person=1 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Sing Person=3 Tense=Pres VerbForm=Fin
+"<to>"
+	"to" PART 
+	"to" ADP 
+	"to" SCONJ 
+	"too" ADV Typo=Yes
+	"_" X 
+	"to" NOUN Number=Sing
+	"to" VERB VerbForm=Inf
+	"the" DET Definite=Def PronType=Art Typo=Yes
+"<be>"
+	"be" AUX VerbForm=Inf
+	"be" VERB VerbForm=Inf
+	"be" AUX Mood=Imp VerbForm=Fin
+	"before" ADV Typo=Yes
+	"be" AUX Mood=Sub VerbForm=Fin
+	"be" AUX Mood=Sub Number=Plur Person=3 Tense=Pres VerbForm=Fin
+	"be" AUX Mood=Sub Number=Sing Person=2 Tense=Pres VerbForm=Fin
+	"be" AUX Mood=Sub Number=Sing Person=3 Tense=Pres VerbForm=Fin
+	"be" NOUN Number=Sing
+"<another>"
+	"another" DET 
+	"another" ADJ Degree=Pos
+"<brick>"
+	"brick" NOUN Number=Sing
+"<in>"
+	"in" ADP 
+	"in" ADV 
+	"in" SCONJ 
+	"in" PROPN Number=Sing
+	"in" NOUN Number=Sing
+	"in" ADJ Degree=Pos
+	"be" AUX Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin
+	"into" ADP Typo=Yes
+	"_" X 
+	"indeed" ADV Typo=Yes
+"<the>"
+	"the" DET Definite=Def PronType=Art
+	"they" PRON Case=Nom Number=Plur Person=3 PronType=Prs Typo=Yes
+	"that" PRON PronType=Rel Typo=Yes
+	"than" ADP Typo=Yes
+	"to" PART Typo=Yes
+	"to" ADP Typo=Yes
+"<wall>"
+	"wall" NOUN Number=Sing
+"<.>"
+	"." PUNCT 

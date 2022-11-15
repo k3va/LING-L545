@@ -1,0 +1,80 @@
+"<All>"
+	"all" DET
+	"All" DET
+"<in>"
+	"in" NOUN Number=Sing SELECT:12
+;	"in" ADP SELECT:12
+;	"in" ADV SELECT:12
+;	"in" SCONJ SELECT:12
+;	"in" PROPN Number=Sing SELECT:12
+;	"in" ADJ Degree=Pos SELECT:12
+;	"be" AUX Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin SELECT:12
+;	"into" ADP Typo=Yes SELECT:12
+;	"_" X SELECT:12
+;	"indeed" ADV Typo=Yes SELECT:12
+"<all>"
+	"all" DET
+	"all" ADV
+	"all" NOUN Number=Sing
+	"altogether" ADV Typo=Yes
+"<I>"
+	"I" PRON Case=Nom Number=Sing Person=1 PronType=Prs
+	"I" NUM NumForm=Roman NumType=Card
+	"I" PROPN Number=Sing
+"<don't>"
+	"*don't"
+"<want>"
+	"want" VERB VerbForm=Inf
+	"want" VERB Mood=Ind Number=Sing Person=1 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Plur Person=3 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Sing Person=2 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin
+	"want" VERB Mood=Ind Number=Plur Person=1 Tense=Pres VerbForm=Fin
+	"want" VERB Mood=Ind Number=Sing Person=3 Tense=Pres VerbForm=Fin
+"<to>"
+	"to" PART
+	"to" ADP
+	"to" SCONJ
+	"too" ADV Typo=Yes
+	"_" X
+	"to" NOUN Number=Sing
+	"to" VERB VerbForm=Inf
+	"the" DET Definite=Def PronType=Art Typo=Yes
+"<be>"
+	"be" AUX VerbForm=Inf
+	"be" VERB VerbForm=Inf
+	"be" AUX Mood=Imp VerbForm=Fin
+	"before" ADV Typo=Yes
+	"be" AUX Mood=Sub VerbForm=Fin
+	"be" AUX Mood=Sub Number=Plur Person=3 Tense=Pres VerbForm=Fin
+	"be" AUX Mood=Sub Number=Sing Person=2 Tense=Pres VerbForm=Fin
+	"be" AUX Mood=Sub Number=Sing Person=3 Tense=Pres VerbForm=Fin
+	"be" NOUN Number=Sing
+"<another>"
+	"another" DET SELECT:10
+;	"another" ADJ Degree=Pos SELECT:10
+"<brick>"
+	"brick" NOUN Number=Sing
+"<in>"
+	"in" ADP SELECT:11
+	"into" ADP Typo=Yes SELECT:11
+;	"in" ADV SELECT:11
+;	"in" SCONJ SELECT:11
+;	"in" PROPN Number=Sing SELECT:11
+;	"in" NOUN Number=Sing SELECT:11
+;	"in" ADJ Degree=Pos SELECT:11
+;	"be" AUX Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin SELECT:11
+;	"_" X SELECT:11
+;	"indeed" ADV Typo=Yes SELECT:11
+"<the>"
+	"the" DET Definite=Def PronType=Art SELECT:10
+;	"they" PRON Case=Nom Number=Plur Person=3 PronType=Prs Typo=Yes SELECT:10
+;	"that" PRON PronType=Rel Typo=Yes SELECT:10
+;	"than" ADP Typo=Yes SELECT:10
+;	"to" PART Typo=Yes SELECT:10
+;	"to" ADP Typo=Yes SELECT:10
+"<wall>"
+	"wall" NOUN Number=Sing
+"<.>"
+	"." PUNCT
+
